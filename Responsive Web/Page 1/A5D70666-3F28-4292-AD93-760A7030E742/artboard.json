@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "DE9F362C-EEAF-40B4-A40C-764D5CA939C5",
+  "do_objectID": "A5D70666-3F28-4292-AD93-760A7030E742",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,12 +21,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1024,
-    "width": 1440,
-    "x": 2678,
+    "width": 768,
+    "x": 686,
     "y": -211
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,8 +41,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "15DA579F-E30D-4DAE-A3A4-40096EE2C257"
+    }
   ],
-  "name": "Desktop HD",
+  "name": "Tablet",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
